@@ -19,4 +19,4 @@ deploy:
   target-branch: gh-pages
   commit_message: "Deploy release ${TRAVIS_TAG}"
   on:
-    branch: master
+    branch: main
